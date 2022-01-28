@@ -1,5 +1,5 @@
 
-# Project Title
+# Software Pricing Plans
 
 This a webpage that displays Software Pricing Plans. 
 

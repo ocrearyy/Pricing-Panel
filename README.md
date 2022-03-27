@@ -1,7 +1,7 @@
 
-# Software Pricing Plans
+# Pricing Panel 
 
-This a webpage that displays Software Pricing Plans. 
+This a webpage that displays a three (3) tiered Software Pricing Panel. 
 
 ## Screenshots
 
@@ -12,7 +12,43 @@ This a webpage that displays Software Pricing Plans.
 I'm a full stack developer, Building solutions to change the world....
 
 
-## License
+## Built With
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- HTML5, CSS3.
+- Git, GitHub, VsCode, google fonts.
+
+## Live Demo (Responsive Web Design for Mobile and Desktop)
+
+[Live Demo Link](https://oshanedesign.github.io/Pricing-Panel/)
+
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+1. Git clone git@github.com:oshanedesign/Pricing-Panel.git
+
+2. Cd Pricing-Panel
+
+
+## Authors, Designers & Credits 
+
+👤 **Author**
+
+- GitHub: [@oshanedesign](https://github.com/oshanedesign)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 

@@ -14,7 +14,8 @@ I'm a full stack developer, Building solutions to change the world....
 
 ## Built With
 
-- HTML5, CSS3.
+- HTML5, CSS3
+- FlexBox, MediaQueries
 - Git, GitHub, VsCode, google fonts.
 
 ## Live Demo (Responsive Web Design for Mobile and Desktop)

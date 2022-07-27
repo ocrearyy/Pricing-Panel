@@ -1,7 +1,7 @@
 
 # Pricing Panel 
 
-This a webpage that displays a three (3) tiered Software Pricing Panel. 
+A pricing table that shows the different pricing tiers and subscription levels for a software.
 
 ## Screenshots
 
